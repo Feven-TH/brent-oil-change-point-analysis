@@ -1,0 +1,17 @@
+# Data Processing
+pandas
+numpy
+scipy
+
+# Bayesian Modeling (The Core of Task 2)
+pymc>=5.0.0
+arviz
+statsmodels
+
+# Visualization
+matplotlib
+seaborn
+
+# Task 3 Prep (Dashboard)
+flask
+flask-cors

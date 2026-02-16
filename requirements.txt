@@ -7,7 +7,8 @@ scipy
 pymc>=5.0.0
 arviz
 statsmodels
-
+pytensor
+numba
 # Visualization
 matplotlib
 seaborn
@@ -15,3 +16,4 @@ seaborn
 # Task 3 Prep (Dashboard)
 flask
 flask-cors
+
